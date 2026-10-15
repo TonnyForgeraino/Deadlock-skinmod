@@ -80,18 +80,6 @@ Open an issue describing your suggestion and how it would improve the user exper
 
 Feedback and constructive criticism are always welcome.
 
-## ⚠️ Disclaimer
-
-Deadlock Custom Skins is an unofficial community project.
-
-- This project is not affiliated with, endorsed by, or sponsored by Valve Corporation.
-- Deadlock is a game developed by Valve Corporation.
-- Compatibility with future game updates is not guaranteed.
-- Custom modifications may be subject to game rules or anti-cheat restrictions. Check the applicable policies before use.
-- Download executable files only from sources you trust.
-
-Use the launcher at your own risk.
-
 ## 🤝 Contributing
 
 Contributions, bug reports, and suggestions are welcome.
