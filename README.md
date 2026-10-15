@@ -1,1 +1,113 @@
-# Deadlock-skinmod
+# Deadlock Custom Skins
+
+**Customize your Deadlock experience with your own skins.**
+
+Deadlock Custom Skins is a community-made project that allows players to use custom skins in Deadlock through a standalone Windows launcher.
+
+No need to manually manage every step yourself — launch the tool and customize your game using the available features.
+
+## ✨ Features
+
+- 🎨 **Custom Skins** — Personalize your Deadlock experience with custom skins.
+- 🚀 **Standalone Launcher** — A dedicated `.exe` application for managing custom skins.
+- 🖥️ **Simple Workflow** — Designed to make custom skin installation and management easier.
+- 🔧 **Easy to Use** — Built for players who want a straightforward customization experience.
+- 🌱 **Community Project** — Open to feedback, suggestions, and contributions.
+
+## 📸 Screenshots
+
+Screenshots and demonstrations will be added in future updates.
+
+## 📥 Download
+
+Download the latest version from the [Releases](../../releases) page.
+
+1. Open the Releases section.
+2. Download the latest launcher executable.
+3. Run the `.exe` file.
+4. Follow the instructions provided by the launcher.
+
+Check the release notes for version-specific installation instructions.
+
+## 🛠️ Requirements
+
+- Windows
+- A working installation of Deadlock
+- The latest version of the launcher
+
+Additional requirements may apply depending on the release.
+
+## 🎮 How It Works
+
+Deadlock Custom Skins uses a standalone launcher to provide access to custom skin functionality.
+
+The launcher is intended to simplify the process of applying custom skins without requiring users to perform every step manually.
+
+Supported skin formats and installation options depend on the current version of the project.
+
+## 🔄 Updates
+
+Check the [Releases](../../releases) page for new versions, bug fixes, and compatibility updates.
+
+Game updates may affect compatibility, so make sure to check the documentation before using an older launcher version.
+
+## 🐛 Bug Reports
+
+Encountered a problem?
+
+Please open an issue in the [Issues](../../issues) section and include:
+
+- Your Windows version
+- Your Deadlock version
+- Your launcher version
+- A description of the problem
+- Screenshots or logs, if available
+
+Never share passwords, authentication tokens, or other sensitive information in an issue.
+
+## 💡 Feature Requests
+
+Have an idea that could improve the project?
+
+Open an issue describing your suggestion and how it would improve the user experience.
+
+Feedback and constructive criticism are always welcome.
+
+## ⚠️ Disclaimer
+
+Deadlock Custom Skins is an unofficial community project.
+
+- This project is not affiliated with, endorsed by, or sponsored by Valve Corporation.
+- Deadlock is a game developed by Valve Corporation.
+- Compatibility with future game updates is not guaranteed.
+- Custom modifications may be subject to game rules or anti-cheat restrictions. Check the applicable policies before use.
+- Download executable files only from sources you trust.
+
+Use the launcher at your own risk.
+
+## 🤝 Contributing
+
+Contributions, bug reports, and suggestions are welcome.
+
+If you want to contribute:
+
+1. Fork the repository.
+2. Create a branch for your changes.
+3. Implement and test your changes.
+4. Submit a pull request with a clear description.
+
+## 📄 License
+
+No license has been specified yet. Check the repository for licensing information before redistributing or modifying this project.
+
+## ⭐ Support the Project
+
+If you find this project useful, consider giving the repository a star ⭐
+
+Every star, issue report, and contribution helps the project improve.
+
+---
+
+**Made for Deadlock players who want to customize their experience.**
+
+*Your game. Your style. Your skins.*
