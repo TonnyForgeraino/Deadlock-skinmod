@@ -25,10 +25,6 @@ No need to manually manage every step yourself — launch the tool and customize
 - 🔧 **Easy to Use** — Built for players who want a straightforward customization experience.
 - 🌱 **Community Project** — Open to feedback, suggestions, and contributions.
 
-## 📸 Screenshots
-
-Screenshots and demonstrations will be added in future updates.
-
 ## 📥 Download
 
 Download the latest version from the [Releases](../../releases) page.
