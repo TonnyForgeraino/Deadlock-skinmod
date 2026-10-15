@@ -37,7 +37,7 @@ No need to manually manage every step yourself — launch the tool and customize
 Check the release notes for version-specific installation instructions.
 
 ## 🛠️ Requirements
-
+ 
 - Windows
 - A working installation of Deadlock
 - The latest version of the launcher
