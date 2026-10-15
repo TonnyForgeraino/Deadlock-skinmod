@@ -28,7 +28,7 @@ No need to manually manage every step yourself — launch the tool and customize
 
 ## 📥 Download
 
-[⬇️ Download Deadlock Skin Launcher](../../releases/latest/download/Installer-v1.4.2.exe)
+[⬇️ Download Deadlock Skin Launcher](../../releases/latest/download/Installer-v1.4.2-4.exe)
 
 1. Open the Releases section.
 2. Download the latest launcher executable.
