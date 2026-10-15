@@ -106,7 +106,7 @@ Every star, issue report, and contribution helps the project improve.
 **Made for Deadlock players who want to customize their experience.**
 
 *Your game. Your style. Your skins.*
- 
+  
 ### Keywords:
 - deadlock custom skin installer                                                                                                                                                                              
 - deadlock skin manager
