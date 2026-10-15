@@ -118,3 +118,32 @@ Every star, issue report, and contribution helps the project improve.
 **Made for Deadlock players who want to customize their experience.**
 
 *Your game. Your style. Your skins.*
+
+#keywords
+deadlock custom skin installer
+deadlock skin manager
+deadlock custom character skins
+deadlock skin customization tool
+how to install deadlock skins
+deadlock standalone skin launcher
+custom skins for deadlock game
+deadlock custom skins
+deadlock skins
+deadlock skin launcher
+deadlock skin mods
+custom character skins
+deadlock modding
+deadlock skin manager
+skin customization
+skin installer
+deadlock customization tool
+deadlock community skins
+deadlock game mods
+character customization
+gaming tools
+Windows skin launcher
+standalone launcher
+game modding
+Valve games
+PC gaming
+custom game assets
